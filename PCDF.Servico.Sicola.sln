@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PCDF.Servico.Sicola.API", "PCDF.Servico.Sicola.API\PCDF.Servico.Sicola.API.csproj", "{3AC708DA-35B9-4206-98CF-1E6E5FDA4D8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FAC3589B-BBE2-426D-8072-0989A64ECE01}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PCDF.Servico.Sicola.Tests", "PCDF.Servico.Sicola.Tests\PCDF.Servico.Sicola.Tests.csproj", "{868D7CEC-5780-4578-8125-7EB13635720B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC708DA-35B9-4206-98CF-1E6E5FDA4D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC708DA-35B9-4206-98CF-1E6E5FDA4D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC708DA-35B9-4206-98CF-1E6E5FDA4D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC708DA-35B9-4206-98CF-1E6E5FDA4D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868D7CEC-5780-4578-8125-7EB13635720B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868D7CEC-5780-4578-8125-7EB13635720B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868D7CEC-5780-4578-8125-7EB13635720B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868D7CEC-5780-4578-8125-7EB13635720B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D011E942-9A8B-46DD-A1F8-A595F252CCD5}
+	EndGlobalSection
+EndGlobal
